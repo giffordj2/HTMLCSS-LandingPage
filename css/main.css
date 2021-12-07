@@ -162,7 +162,7 @@ section {
 
 .hero h1 {
   position: relative;
-  transform: translateY(-30px);
+  left: -30px;
 }
 
 .hero h2 {
