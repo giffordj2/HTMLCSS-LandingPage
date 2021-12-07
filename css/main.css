@@ -242,3 +242,22 @@ text-align: center;
   margin: 50px 0;
   position: relative;
 }
+
+.full-banner:before {
+  content: "";
+  position: absolute;
+  border: 1px solid #fff;
+  top: 30px;
+  bottom: 30px;
+  left: 50px;
+  right: 50px;
+  z-index: 1;
+}
+
+.full-banner-image {
+  flex: 0 0 58.333333%;
+  background-image: url('img/vista.jpg');
+  background-size: cover;
+  position: top center;
+  min-height: 400px;
+}
