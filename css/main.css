@@ -257,7 +257,7 @@ text-align: center;
   flex: 0 0 58.333333%;
   background-image: url('../img/vista.jpg');
   background-size: cover;
-  position: top center;
+  background-position: top center;
   min-height: 400px;
 }
 
